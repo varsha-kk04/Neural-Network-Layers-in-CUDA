@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.log
+.vs/
+__pycache__/
